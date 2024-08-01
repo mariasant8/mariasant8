@@ -1,16 +1,14 @@
-## Hi there 👋
+Boas vindas ao meu perfil💋💋
 
 <!--
-**mariasant8/mariasant8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maria Isabella ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚- Estou estudando na Alura 
+
+- 🕹Estou me desenvolvendo na linguagem JavaScript
+- 💕Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001102214314SP@al.educacao.sp.gov.br
+![](![sao-paulo-28](https://github.com/user-attachments/assets/d8bed565-9fc9-489b-bcf9-f7ebba422814)
+)
